@@ -1,18 +1,25 @@
+---
+parent: Code Styles
+---
 # Git Commit Message 风格
 
 通常情况下，遵循风格 [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)。
+
+以下规则的权重更高。
 
 ## Commit Message 格式
 
 ```
 <type>[(scope)][!]: <description>
 
-[optional body]
+[body]
 
-[optional footer]
+[footer]
 ```
 
-`[(scope)]` 是可选的。
+- `<type>`, `<description>` 是必要的。
+- `[(scope)]`, `[body]`, `[footer]` 是可选的。
+- 如果 Commit 包含[破坏性修改](#破坏性修改)，`!` 是必要的。
 
 ## Type
 
@@ -45,7 +52,7 @@ BREAKING CHANGE: dropping Node 6 which hits end of life in April
 
 ## 提交 PR 前，签署 DCO
 
-提交 PR 前，请签署[我们的开发者起源证书 (DCO)](./dco.md)。
+提交 PR 前，请签署[我们的开发者起源证书 (DCO)](./dco.zh.md)。
 为了使任何代码修改被接受，DCO 必须被签署。
 
 ## PR 只包含一个 Git Commit

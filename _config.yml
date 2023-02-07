@@ -18,26 +18,31 @@ exclude:
   - README.md
   - ISSUE_TEMPLATE
   - PULL_REQUEST_TEMPLATE
+  - .github
+  - .git
 
+markdown: GFM
 remote_theme: just-the-docs/just-the-docs
 
 # Default config: https://github.com/just-the-docs/just-the-docs/blob/main/_config.yml
 url: https://gcg.adoyle.me
-baseurl: /
+# baseurl: /
 title: ADoyle's Github Code Guidelines
 description: Default Github community health files
-logo: /assets/logo.png
-favicon_ico: /assets/favicon.ico
+logo: https://media.githubusercontent.com/media/adoyle-h/_imgs/master/assets/logo.png
+favicon_ico: ./.jekyll/assets/favicon.ico
 permalink: pretty
 footer_content:
-  Copyright © 2023 ADoyle (adoyle.h@gmail.com). All rights reserved.
-  Source code at <a href="https://github.com/adoyle-h/.github">https://github.com/adoyle-h/.github</a>
-
+  Copyright 2023 ADoyle (adoyle.h@gmail.com). Some Rights Reserved.<br>
+  The project is licensed under <b>Apache License Version 2.0</b>.
+aux_links_new_tab: true # Makes Aux links open in a new tab. Default is false
+aux_links:
+  "Give Me a Github Star":
+    - https://github.com/adoyle-h/.github
 last_edit_timestamp: false
-gh_edit_repository: https://github.com/adoyle-h/.github
 color_scheme: dark
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: ⬆ 返回顶部
 
 search_enabled: true
 search:

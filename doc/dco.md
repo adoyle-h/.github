@@ -2,20 +2,15 @@
 
 The project uses a mechanism known as a Developer Certificate of Origin (DCO) to manage process.
 
-A DCO is a lightweight way for a developer to certify that they wrote or otherwise have the right
-to submit code or documentation to a project. The way a developer does this is by adding
-a Signed-off-by line to a commit. When they do this they are agreeing to the DCO.
+A DCO is a lightweight way for a developer to certify that they wrote or otherwise have the right to submit code or documentation to a project.
 
-The full text of the DCO can be found at https://developercertificate.org . It reads:
+The full text of the DCO can be found at <https://developercertificate.org> . It reads:
 
 ```
 Developer Certificate of Origin
 Version 1.1
 
 Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
-1 Letterman Drive
-Suite D4700
-San Francisco, CA, 94129
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
@@ -53,6 +48,10 @@ If you are willing to agree to these terms, you just add a line to every git com
 ```
 Signed-off-by: Some Developer somedev@example.com
 ```
+
+When you do this, you are agreeing to the DCO.
+
+## Sign DCO with Git
 
 If you set your user.name and user.email as part of your git configuration,
 you can sign your commit automatically with `git commit -sS`.

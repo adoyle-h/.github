@@ -1,18 +1,25 @@
+---
+parent: Code Styles
+---
 # Git Commit Message Style
 
 Generally follows the [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/).
+
+And the following rules have higher priority.
 
 ## Commit Message Format
 
 ```
 <type>[(scope)][!]: <description>
 
-[optional body]
+[body]
 
-[optional footer]
+[footer]
 ```
 
-`[(scope)]` is optional.
+- `<type>`, `<description>` are required.
+- `[(scope)]`, `[body]`, `[footer]` are optional.
+- If the commit has [breaking change](#breaking-change), `!` is required.
 
 ## Type
 

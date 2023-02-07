@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+group :jekyll_plugins do
+  gem "github-pages", :git => "https://ghproxy.com/https://github.com/adoyle-h/pages-gem.git", :branch => "adoyle", :require => "gh-pages"
+end
