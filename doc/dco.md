@@ -2,7 +2,6 @@
 
 [English](./dco.md) | [中文](./dco.zh.md)
 
----
 
 The project uses a mechanism known as a Developer Certificate of Origin (DCO) to manage process.
 

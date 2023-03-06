@@ -14,7 +14,7 @@ And the following rules have higher priority.
 
 ## File naming
 
-- All filenames must match the regex `[-_a-z0-9]`, except `Dockerfile` and other particular files.
+- All filenames must match the regex `[-_a-z0-9]`, except other particular files (like `Dockerfile`).
 - All script filenames must end with `.bash`.
 
 ## File Header

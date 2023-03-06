@@ -2,7 +2,6 @@
 
 [English](./SUPPORT.md) | [中文](./SUPPORT.zh.md)
 
----
 
 - If you'd like to contribute to this project, please read the [CONTRIBUTING.md](./CONTRIBUTING.md).
 - If you're looking for programming help, and for answers to questions, please consult the [issue list][] and the [discussion][].

@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contributing Guidelines in General
 
 [English](./CONTRIBUTING.md) | [中文](./CONTRIBUTING.zh.md)
 

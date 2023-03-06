@@ -1,4 +1,4 @@
-# 贡献指南
+# 贡献指南（通用）
 
 [English](./CONTRIBUTING.md) | [中文](./CONTRIBUTING.zh.md)
 

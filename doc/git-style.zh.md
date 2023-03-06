@@ -5,7 +5,6 @@ parent: Code Styles
 
 [English](./git-style.md) | [中文](./git-style.zh.md)
 
----
 
 通常情况下，遵循风格 [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)。
 
