@@ -1,6 +1,6 @@
 # 贡献指南
 
-English Document [./CONTRIBUTING.md](./CONTRIBUTING.md)
+[English](./CONTRIBUTING.md) | [中文](./CONTRIBUTING.zh.md)
 
 ## 欢迎提供任何建议或者意见
 

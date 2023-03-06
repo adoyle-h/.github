@@ -1,6 +1,6 @@
 # Security
 
-中文文档 [./SECURITY.zh.md](./SECURITY.zh.md)
+[English](./SECURITY.md) | [中文](./SECURITY.zh.md)
 
 ## Reporting Security Issues
 

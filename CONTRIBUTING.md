@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-中文文档 [./CONTRIBUTING.zh.md](./CONTRIBUTING.zh.md)
+[English](./CONTRIBUTING.md) | [中文](./CONTRIBUTING.zh.md)
 
 ## Any comments and suggestions are always welcome
 

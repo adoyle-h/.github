@@ -1,6 +1,6 @@
 # 安全问题
 
-English Document [./SECURITY.md](./SECURITY.md)
+[English](./SECURITY.md) | [中文](./SECURITY.zh.md)
 
 ## 报告安全问题
 

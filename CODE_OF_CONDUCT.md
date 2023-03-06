@@ -1,6 +1,6 @@
 # Code of Conduct
 
-中文文档 [./CODE_OF_CONDUCT.zh.md](./CODE_OF_CONDUCT.zh.md)
+[English](./CODE_OF_CONDUCT.md) | [中文](./CODE_OF_CONDUCT.zh.md)
 
 ## Our Pledge
 

@@ -3,6 +3,10 @@ parent: Code Styles
 ---
 # Git Commit Message Style
 
+[English](./git-style.md) | [中文](./git-style.zh.md)
+
+---
+
 Generally follows the [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/).
 
 And the following rules have higher priority.

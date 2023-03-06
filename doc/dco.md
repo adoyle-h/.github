@@ -1,5 +1,9 @@
 # Developer Certificate of Origin
 
+[English](./dco.md) | [中文](./dco.zh.md)
+
+---
+
 The project uses a mechanism known as a Developer Certificate of Origin (DCO) to manage process.
 
 A DCO is a lightweight way for a developer to certify that they wrote or otherwise have the right to submit code or documentation to a project.
