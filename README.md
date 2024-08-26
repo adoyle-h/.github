@@ -6,9 +6,10 @@ nav_order: 1
 
 There are [default Github community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) and common guidelines used for any repository under the account @adoyle-h.
 
-Please visit <https://gcg.adoyle.me>
-
 这里存放[默认的 Github 社区健康文件](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)和一些通用准则，适用于 [@adoyle-h](https://github.com/adoyle-h) 账号下的所有项目。
+
+Please visit <https://gcg.adoyle.me>
+请访问 <https://gcg.adoyle.me>
 
 ## Default Github Community Health Files
 
@@ -24,7 +25,7 @@ Please visit <https://gcg.adoyle.me>
 
 ## Copyright and License
 
-Copyright 2023 ADoyle (adoyle.h@gmail.com). Some Rights Reserved.
+Copyright 2023-2024 ADoyle (adoyle.h@gmail.com). Some Rights Reserved.
 The project is licensed under the **Apache License Version 2.0**.
 
 Read the [LICENSE][] file for the specific language governing permissions and limitations under the License.
